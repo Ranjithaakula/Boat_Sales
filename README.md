@@ -9,6 +9,6 @@ Project Management - contains a project brief.
 #### Data - contains original and prepared data.
 #### Scripts - contains all python scripts which include all code for loading, cleaning, and analysing data.
 #### Analysis - contains all produced visualizations during the analysis phase.
-#### Tools Used
+#### Tools Used -
 #### Python (pandas, numpy, matplotlib, seaborn, scipy, folium, sklearn, pylab, quandl, statsmodels)
 ##### Tableau Public
