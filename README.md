@@ -6,9 +6,9 @@ This analysis aims to unveil the factors contributing to a boat's popularity and
 Data is downloaded from Kaggle.
 ### Project folder structure
 Project Management - contains a project brief.
-#### Data - contains original and prepared data.
-#### Scripts - contains all python scripts which include all code for loading, cleaning, and analysing data.
-#### Analysis - contains all produced visualizations during the analysis phase.
-#### Tools Used -
-#### Python (pandas, numpy, matplotlib, seaborn, scipy, folium, sklearn, pylab, quandl, statsmodels)
-##### Tableau Public
+### Data - contains original and prepared data.
+### Scripts - contains all python scripts which include all code for loading, cleaning, and analysing data.
+### Analysis - contains all produced visualizations during the analysis phase.
+### Tools Used -
+### Python (pandas, numpy, matplotlib, seaborn, scipy, folium, sklearn, pylab, quandl, statsmodels)
+#### Tableau Public
